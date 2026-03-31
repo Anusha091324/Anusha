@@ -1,4 +1,4 @@
-# Hi, I'm Ravi Kumar Gupta 👋
+# Hi, I'm Anusha.K👋
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel | MySQL  
 Delhi, India | Open to full-time Data Analyst opportunities  
