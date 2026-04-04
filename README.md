@@ -18,27 +18,42 @@ I enjoy working on real-world datasets, performing data cleaning, exploratory an
 Organization: Samsung R&D Institute India
 Duration: Oct 2022 – Oct 2024
 
-Analyzed browser performance data across Windows and Android platforms using Python (Pandas, NumPy) and SQL
-Performed EDA (Exploratory Data Analysis) to identify trends, bottlenecks, and improvement areas
-Built interactive dashboards using Power BI & Tableau for stakeholder reporting
-Conducted benchmark analysis against Chrome, Firefox, and Edge browsers
-Extracted and validated large datasets using ADB logs and automation scripts
-Delivered data-driven insights to improve UI/UX and overall browser performance
-Generated reports and visualizations for business and technical teams
+-Analyzed browser performance data across Windows and Android platforms using Python (Pandas, NumPy) and SQL
+
+-Performed EDA (Exploratory Data Analysis) to identify trends, bottlenecks, and improvement areas
+
+-Built interactive dashboards using Power BI & Tableau for stakeholder reporting
+
+-Conducted benchmark analysis against Chrome, Firefox, and Edge browsers
+
+-Extracted and validated large datasets using ADB logs and automation scripts
+
+-Delivered data-driven insights to improve UI/UX and overall browser performance
+
+-Generated reports and visualizations for business and technical teams
 
 ---
 ### Project 2: Mobile & Web Application Testing (Automation + Manual)
+
 Organization: Samsung R&D Institute India
+
 Duration: July 2019 – Sep 2022
 
-Performed manual and automation testing for Samsung Health and browser applications
-Automated test cases using Appium, Selenium, TestNG, Java, Node.js
-Executed functional, regression, sanity, and performance testing
-Conducted device-level testing using ADB across multiple Android devices
-Performed stress testing using Gorilla and ACT tools
-Created and maintained test cases using CodeBeamer and tracked defects in JIRA
-Analyzed logs and debugged issues to ensure product stability and performance
-Collaborated with cross-functional teams for defect resolution and product improvements
+-Performed manual and automation testing for Samsung Health and browser applications
+
+-Automated test cases using Appium, Selenium, TestNG, Java, Node.js
+
+-Executed functional, regression, sanity, and performance testing
+
+-Conducted device-level testing using ADB across multiple Android devices
+
+-Performed stress testing using Gorilla and ACT tools
+
+-Created and maintained test cases using CodeBeamer and tracked defects in JIRA
+
+-Analyzed logs and debugged issues to ensure product stability and performance
+
+-Collaborated with cross-functional teams for defect resolution and product improvements
 
 ---
 
@@ -72,36 +87,51 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 ### 2. Product Dissection Case Study – Database Design
 
 Tools: SQL, ER Diagrams, RDBMS
+
 🔗 GitHub: https:
+
 🔗 Project Link (Presentation/Video): 
 
--Designed normalized database schema with ER diagrams
+-Designed normalized database schema with ER 
+
 -Defined relationships using primary & foreign keys
+
 -Applied normalization to reduce redundancy
+
 -Created SQL queries for business use cases
+
 
 ---
 
 ### 3. Numerical Programming in Python
 
 Tools: Python, NumPy
+
 🔗 GitHub: https:
+
 🔗 Project Link: https:
 
 -Implemented matrix operations and array manipulation
+
 -Optimized computations using vectorization
+
 -Improved performance over traditional methods 
+
 
 ---
 
 ### 4. Python Problem Solving (CodeStorm)
 
 Tools: Python
+
 🔗 GitHub: 
+
 🔗 Project Link: 
 
 -Solved coding problems using loops, functions, and conditionals
+
 -Focused on logic building and debugging
+
 -Covered edge cases and optimized solutions
 
 ---
