@@ -55,12 +55,16 @@ Collaborated with cross-functional teams for defect resolution and product impro
 ### 1. Exploratory Data Analysis – Amazon Prime Movies & TV Shows
 
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+
 🔗 GitHub: 
 🔗 Project Link (Colab/Portfolio):
 
 -Performed EDA on 9,500+ records to analyze global streaming content trends
+
 -Cleaned and transformed raw data (missing values, duplicates, formatting)
+
 -Identified key insights like 70% movies dominance and growth of Indian content
+
 -Built visualizations and dashboards for clear storytelling 
 
 ---
