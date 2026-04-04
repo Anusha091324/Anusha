@@ -14,14 +14,31 @@ I enjoy working on real-world datasets, performing data cleaning, exploratory an
 
 ## Experience
 
-### Data Science Intern — Xapotech Systems Pvt. Ltd.  
-**Aug 2023 – Feb 2024**
+### Project 1: Browser Performance Analytics (Data Analyst Focus)
+Organization: Samsung R&D Institute India
+Duration: Oct 2022 – Oct 2024
 
-- Worked on multiple analytics projects using Python, SQL, and Excel  
-- Cleaned and prepared structured datasets for analysis  
-- Performed EDA to identify trends, patterns, and KPIs  
-- Built Power BI dashboards to visualize insights for reporting  
-- Documented analysis and findings for portfolio use  
+Analyzed browser performance data across Windows and Android platforms using Python (Pandas, NumPy) and SQL
+Performed EDA (Exploratory Data Analysis) to identify trends, bottlenecks, and improvement areas
+Built interactive dashboards using Power BI & Tableau for stakeholder reporting
+Conducted benchmark analysis against Chrome, Firefox, and Edge browsers
+Extracted and validated large datasets using ADB logs and automation scripts
+Delivered data-driven insights to improve UI/UX and overall browser performance
+Generated reports and visualizations for business and technical teams
+
+---
+### Project 2: Mobile & Web Application Testing (Automation + Manual)
+Organization: Samsung R&D Institute India
+Duration: July 2019 – Sep 2022
+
+Performed manual and automation testing for Samsung Health and browser applications
+Automated test cases using Appium, Selenium, TestNG, Java, Node.js
+Executed functional, regression, sanity, and performance testing
+Conducted device-level testing using ADB across multiple Android devices
+Performed stress testing using Gorilla and ACT tools
+Created and maintained test cases using CodeBeamer and tracked defects in JIRA
+Analyzed logs and debugged issues to ensure product stability and performance
+Collaborated with cross-functional teams for defect resolution and product improvements
 
 ---
 
@@ -35,45 +52,56 @@ I enjoy working on real-world datasets, performing data cleaning, exploratory an
 
 ## Projects
 
-### 🎵 Spotify Music Analytics — Python, SQL, Power BI  
-🔗 https://github.com/btwitravi/Spotify-Music-Analytics---Python_SQL_PowerBi  
-- Analyzed Spotify music data to identify popularity and trend patterns  
-- Performed data cleaning and exploratory analysis using Python  
-- Used SQL for querying and structured analysis  
-- Visualized insights and key metrics using Power BI  
+### 1. Exploratory Data Analysis – Amazon Prime Movies & TV Shows
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+🔗 GitHub: 
+🔗 Project Link (Colab/Portfolio):
+
+-Performed EDA on 9,500+ records to analyze global streaming content trends
+-Cleaned and transformed raw data (missing values, duplicates, formatting)
+-Identified key insights like 70% movies dominance and growth of Indian content
+-Built visualizations and dashboards for clear storytelling 
 
 ---
 
-### 🚗 Car Price Analysis — SQL, Power BI  
-🔗 https://github.com/btwitravi/Car-Price-Analysis-SQL-Power-Bi  
-- Analyzed car pricing data across brands, fuel types, and transmission  
-- Wrote SQL queries using joins and aggregations  
-- Built Power BI visuals to highlight pricing trends and comparisons  
+### 2. Product Dissection Case Study – Database Design
+
+Tools: SQL, ER Diagrams, RDBMS
+🔗 GitHub: https:
+🔗 Project Link (Presentation/Video): 
+
+-Designed normalized database schema with ER diagrams
+-Defined relationships using primary & foreign keys
+-Applied normalization to reduce redundancy
+-Created SQL queries for business use cases
 
 ---
 
-### 🏠 Airbnb Analysis — Python, MySQL, Power BI  
-🔗 https://github.com/btwitravi/Airbnb-Anaysis-Python-MySQL-PowerBi  
-- Cleaned and standardized Airbnb listing data  
-- Performed EDA on pricing and room-type patterns  
-- Stored curated data in MySQL and visualized insights in Power BI  
+### 3. Numerical Programming in Python
+
+Tools: Python, NumPy
+🔗 GitHub: https:
+🔗 Project Link: https:
+
+-Implemented matrix operations and array manipulation
+-Optimized computations using vectorization
+-Improved performance over traditional methods 
 
 ---
 
-### 🚕 Uber Pickup Analysis — Python  
-🔗 https://github.com/btwitravi/Uber-Pickup-Analysis  
-- Analyzed Uber pickup demand across hourly, daily, and monthly levels  
-- Identified peak demand periods using Python visualizations  
+### 4. Python Problem Solving (CodeStorm)
+
+Tools: Python
+🔗 GitHub: 
+🔗 Project Link: 
+
+-Solved coding problems using loops, functions, and conditionals
+-Focused on logic building and debugging
+-Covered edge cases and optimized solutions
 
 ---
 
-### 🛒 Retail Sales Analysis — Python, SQL, Power BI  
-🔗 https://github.com/btwitravi/Retails_Sales_Analysis-Python-SQL-PowerBi  
-- Analyzed retail sales data to uncover revenue and sales trends  
-- Cleaned and transformed raw data using Python  
-- Used SQL for querying and Power BI dashboards for performance tracking  
-
----
 
 ## Skills & Tools
 
