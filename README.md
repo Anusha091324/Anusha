@@ -75,6 +75,8 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 🔗 Project Link (Colab/Portfolio):
 
+🔗 Project Certificates: https://verified.sertifier.com/en/verify/65360442809729/
+
 -Performed EDA on 9,500+ records to analyze global streaming content trends
 
 -Cleaned and transformed raw data (missing values, duplicates, formatting)
@@ -89,9 +91,11 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 Tools: SQL, ER Diagrams, RDBMS
 
-🔗 GitHub: https:
+🔗 GitHub:
 
 🔗 Project Link (Presentation/Video): 
+
+🔗 Project Certificates: https://verified.sertifier.com/en/verify/57182662987050/
 
 -Designed normalized database schema with ER 
 
@@ -108,9 +112,12 @@ Tools: SQL, ER Diagrams, RDBMS
 
 Tools: Python, NumPy
 
-🔗 GitHub: https:
+🔗 GitHub:
 
-🔗 Project Link: https:
+🔗 Project Link:
+
+🔗 Project Certificates: 
+
 
 -Implemented matrix operations and array manipulation
 
@@ -128,6 +135,8 @@ Tools: Python
 🔗 GitHub: 
 
 🔗 Project Link: 
+
+🔗 Project Certificates: https://verified.sertifier.com/en/verify/61521106046514/
 
 -Solved coding problems using loops, functions, and conditionals
 
