@@ -168,7 +168,7 @@ Tools: Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-k0909/)
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/18Xzz0-ZtaXEn0bxBDlTshb-vv8uDjf91/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1hmowCNKxIFKAJvbxhjXfK0SfB1TzuqCL/view?usp=sharing)
 
 
 ---
