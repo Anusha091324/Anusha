@@ -91,9 +91,9 @@ Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
 Tools: SQL, ER Diagrams, RDBMS
 
-🔗 GitHub:
+🔗 Project link(google colab):https://colab.research.google.com/drive/12qaWbMBTHcQaSS1Qtkw5xR61opKjlHW2?usp=sharing
 
-🔗 Project Link (Presentation/Video): 
+🔗 Project Link (Presentation/Video):https://drive.google.com/file/d/1xLX5M32qtY8J0rfDaMqiDqGAu4LJ36wg/view?usp=sharing
 
 🔗 Project Certificates: https://verified.sertifier.com/en/verify/57182662987050/
 
@@ -108,22 +108,18 @@ Tools: SQL, ER Diagrams, RDBMS
 
 ---
 
-### 3. Numerical Programming in Python
+### 3. “Airbnb Listings Analysis: Pricing, Availability & Neighborhood Trends”
 
-Tools: Python, NumPy
+Tools:Power bI Desktop
 
-🔗 GitHub:
+🔗 Project link(google colab):https://drive.google.com/file/d/10fVgzRQ-2YbJ66iLH7IrkjeVaelooaM5/view?usp=sharing
 
-🔗 Project Link:
+🔗 Project Link (Presentation/Video):https://drive.google.com/file/d/1mXWZ9QcHzS9xSbRZO9YZttT1RzUj9hs0/view?usp=sharing
 
-🔗 Project Certificates: 
+🔗 Project Certificates: https://verified.sertifier.com/en/verify/46435873604126/
 
+This project analyzes Airbnb listing data to uncover patterns in property types, pricing strategies, customer engagement, and availability across different neighborhoods. The goal is to help hosts and stakeholders make data-driven decisions for maximizing revenue and occupancy.
 
--Implemented matrix operations and array manipulation
-
--Optimized computations using vectorization
-
--Improved performance over traditional methods 
 
 
 ---
@@ -132,9 +128,9 @@ Tools: Python, NumPy
 
 Tools: Python
 
-🔗 GitHub: 
+🔗Project link:https://colab.research.google.com/drive/193hhLJB3PYDEDe7wp2qRcmqME9IFPfIl?usp=sharing
 
-🔗 Project Link: 
+🔗 Project Video link : https://drive.google.com/file/d/1d6NCDxzad5CwKTZt0v426gAKRyrrs4xF/view?usp=sharing
 
 🔗 Project Certificates: https://verified.sertifier.com/en/verify/61521106046514/
 
