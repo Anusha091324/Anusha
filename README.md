@@ -71,9 +71,9 @@ Duration: July 2019 – Sep 2022
 
 Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
 
-🔗 GitHub: 
+🔗Project link(Colab):https://colab.research.google.com/drive/1ZqEBHDH330Lr6pmUcrwIx0TZ9E75YX4N?usp=sharing
 
-🔗 Project Link (Colab/Portfolio):
+🔗 Project Video link:https://drive.google.com/file/d/1Byq3IdsBPf4l_uv_6mSDLmtgl9-Gcus0/view?usp=sharing
 
 🔗 Project Certificates: https://verified.sertifier.com/en/verify/65360442809729/
 
