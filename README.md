@@ -35,11 +35,11 @@ Duration: Oct 2022 – Oct 2024
 ---
 ### Project 2: Mobile & Web Application Testing (Automation + Manual)
 
-Organization: Samsung R&D Institute India
+Organization: Samsung R&D Institute India.
 
 Duration: July 2019 – Sep 2022
 
--Performed manual and automation testing for Samsung Health and browser applications
+-Performed manual and automation testing for Samsung Health and browser applications.
 
 -Automated test cases using Appium, Selenium, TestNG, Java, Node.js
 
